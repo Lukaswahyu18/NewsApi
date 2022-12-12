@@ -1,0 +1,8 @@
+.loadmore {
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    padding: 7px 25px;
+    font-size: 13px;
+    margin-top: -20px;
+}
